@@ -1,0 +1,3 @@
+Jde o klasickou hru, kde se musíte vyhýbat objektům, každou sekundu se spawnuju objekt a každých 10 sekund se jich začne spawnovat více.
+
+Ovládání : šipka doleva - směr doleva, šipka doprava - směr doprava
